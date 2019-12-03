@@ -1,4 +1,5 @@
 fun main() {
+<<<<<<< HEAD
     val a:String="I am Kotlin"
     val string = "I am Kotlin"
     val int=1234
@@ -78,4 +79,7 @@ data class Country(
             return country.continient=="EU"&&country.population>10000
         }
     }
+=======
+    println("Hello World")
+>>>>>>> 973fe5def3f42fd1d208ae7171801bd27c43db93
 }

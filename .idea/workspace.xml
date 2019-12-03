@@ -4,10 +4,16 @@
     <list default="true" id="3ac8e9af-7e5c-44a7-9ea2-2d0d8afe5a1e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/out/production/kotlinLearn/META-INF/kotlinLearn.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinLearn/META-INF/kotlinLearn.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlinLearn/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinLearn/MainKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
     </list>
+=======
+      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> 973fe5def3f42fd1d208ae7171801bd27c43db93
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -82,6 +89,7 @@
       <updated>1574324368575</updated>
       <workItem from="1574324371744" duration="525000" />
       <workItem from="1574324927361" duration="544000" />
+<<<<<<< HEAD
       <workItem from="1574326917819" duration="1452000" />
       <workItem from="1574863439653" duration="517000" />
       <workItem from="1574863969952" duration="188000" />
@@ -91,6 +99,9 @@
       <workItem from="1575078435630" duration="934000" />
       <workItem from="1575378826456" duration="1466000" />
       <workItem from="1575380303503" duration="2823000" />
+=======
+      <workItem from="1574342242108" duration="37000" />
+>>>>>>> 973fe5def3f42fd1d208ae7171801bd27c43db93
     </task>
     <servers />
   </component>
@@ -102,18 +113,25 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State>
               <option name="COLUMN_ORDER" />
             </State>
+=======
+            <State />
+>>>>>>> 973fe5def3f42fd1d208ae7171801bd27c43db93
           </value>
         </entry>
       </map>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="WindowStateProjectService">
     <state x="1400" y="563" key="com.intellij.ide.util.TipDialog" timestamp="1575380303749">
       <screen x="0" y="40" width="3440" height="1400" />
     </state>
     <state x="1400" y="563" key="com.intellij.ide.util.TipDialog/0.40.3440.1400@0.40.3440.1400" timestamp="1575380303749" />
   </component>
+=======
+>>>>>>> 973fe5def3f42fd1d208ae7171801bd27c43db93
 </project>
