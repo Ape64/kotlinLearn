@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ac8e9af-7e5c-44a7-9ea2-2d0d8afe5a1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/out/production/kotlinLearn/META-INF/kotlinLearn.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinLearn/META-INF/kotlinLearn.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlinLearn/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinLearn/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
-    </list>
-=======
-      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="3ac8e9af-7e5c-44a7-9ea2-2d0d8afe5a1e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
->>>>>>> 973fe5def3f42fd1d208ae7171801bd27c43db93
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,11 +19,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TuyeI4CgbKMv8vhCRp2PDDddXp" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -43,9 +27,50 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.CurryingKt">
+    <configuration name="CurryingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlinLearn" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CurryingKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuntextKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlinLearn" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FuntextKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlinLearn" />
       <option name="VM_PARAMETERS" />
@@ -61,21 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CurryingKt" />
+        <item itemvalue="Kotlin.FuntextKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -89,19 +104,15 @@
       <updated>1574324368575</updated>
       <workItem from="1574324371744" duration="525000" />
       <workItem from="1574324927361" duration="544000" />
-<<<<<<< HEAD
-      <workItem from="1574326917819" duration="1452000" />
-      <workItem from="1574863439653" duration="517000" />
-      <workItem from="1574863969952" duration="188000" />
-      <workItem from="1574864177074" duration="2243000" />
-      <workItem from="1574904424623" duration="1871000" />
-      <workItem from="1575040745044" duration="1862000" />
-      <workItem from="1575078435630" duration="934000" />
-      <workItem from="1575378826456" duration="1466000" />
-      <workItem from="1575380303503" duration="2823000" />
-=======
-      <workItem from="1574342242108" duration="37000" />
->>>>>>> 973fe5def3f42fd1d208ae7171801bd27c43db93
+      <workItem from="1574342242108" duration="492000" />
+      <workItem from="1574382287884" duration="46000" />
+      <workItem from="1574411460842" duration="3385000" />
+      <workItem from="1574494338163" duration="2845000" />
+      <workItem from="1574814180997" duration="3171000" />
+      <workItem from="1574936889308" duration="8100000" />
+      <workItem from="1575347561755" duration="306000" />
+      <workItem from="1575382228269" duration="1253000" />
+      <workItem from="1575420340040" duration="1175000" />
     </task>
     <servers />
   </component>
@@ -113,25 +124,12 @@
       <map>
         <entry key="MAIN">
           <value>
-<<<<<<< HEAD
             <State>
               <option name="COLUMN_ORDER" />
             </State>
-=======
-            <State />
->>>>>>> 973fe5def3f42fd1d208ae7171801bd27c43db93
           </value>
         </entry>
       </map>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="WindowStateProjectService">
-    <state x="1400" y="563" key="com.intellij.ide.util.TipDialog" timestamp="1575380303749">
-      <screen x="0" y="40" width="3440" height="1400" />
-    </state>
-    <state x="1400" y="563" key="com.intellij.ide.util.TipDialog/0.40.3440.1400@0.40.3440.1400" timestamp="1575380303749" />
-  </component>
-=======
->>>>>>> 973fe5def3f42fd1d208ae7171801bd27c43db93
 </project>
